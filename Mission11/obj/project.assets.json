@@ -2960,11 +2960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/asante/RiderProjects/Mission11/Mission11.csproj",
+      "projectUniqueName": "/Users/asante/RiderProjects/Mission11_Laryea-Akrong/Mission11/Mission11.csproj",
       "projectName": "Mission11",
-      "projectPath": "/Users/asante/RiderProjects/Mission11/Mission11.csproj",
+      "projectPath": "/Users/asante/RiderProjects/Mission11_Laryea-Akrong/Mission11/Mission11.csproj",
       "packagesPath": "/Users/asante/.nuget/packages/",
-      "outputPath": "/Users/asante/RiderProjects/Mission11/obj/",
+      "outputPath": "/Users/asante/RiderProjects/Mission11_Laryea-Akrong/Mission11/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/asante/.nuget/NuGet/NuGet.Config"
